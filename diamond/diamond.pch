@@ -1,0 +1,21 @@
+//
+//  diamond.pch
+//  diamond
+//
+//  Created by Yiquan Ma on 2017/4/14.
+//  Copyright © 2017年 YiquanMa. All rights reserved.
+//
+
+#ifndef diamond_pch
+#define diamond_pch
+
+#import "Masonry.h"
+
+#import "YQGlobalValue.h"
+#import "YQCategory.h"
+#import "YQClass.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* diamond_pch */
